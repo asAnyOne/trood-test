@@ -1,0 +1,54 @@
+.container {
+  margin: 0 auto;
+  width: 90%;
+  display: flex;
+  gap: 1px;
+}
+.progressBar {
+  height: 1.2rem;
+  width: 100%;
+  border-radius: 4px;
+}
+ul {
+  padding: 0;
+  width: 100%;
+  display: flex;
+  column-gap: 1.5rem;
+  flex-wrap: wrap;
+}
+li {
+  margin: 0;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  column-gap: 0.5rem;
+}
+
+.list-color {
+  width: 10px;
+  height: 10px;
+  border-radius: 100%;
+}
+
+form {
+  border: 1px solid rgba(0, 0, 0, 0.17);
+  padding: 20px;
+  border-radius: 5px;
+}
+form div {
+  margin-bottom: 20px;
+  display: flex;
+  gap: 10px;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+button {
+  padding: 5px 15px;
+  background-color: rgb(63, 61, 89);
+  color: #fff;
+  font-size: 1.2rem;
+  cursor: pointer;
+  border-radius: 5px;
+}

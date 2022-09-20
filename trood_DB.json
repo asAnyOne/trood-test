@@ -1,0 +1,86 @@
+{
+  "progress": [
+    {
+      "id": 0,
+      "name": "Sold",
+      "color": "#BD1FBE",
+      "value": 677
+    },
+    {
+      "id": 1,
+      "name": "Got free",
+      "color": "#FC64FF",
+      "value": 23
+    },
+    {
+      "id": 2,
+      "name": "Burned",
+      "color": "green",
+      "value": 202
+    },
+    {
+      "id": 3,
+      "name": "Free float",
+      "color": "grey",
+      "value": 323
+    },
+    {
+      "id": "25f71d1f-be4a-4c67-8af8-7b5b280be515",
+      "name": "wordpress",
+      "value": "1",
+      "color": "#000000"
+    },
+    {
+      "id": "744f5a82-68f1-40ce-b863-dbb1d5292d28",
+      "name": "wordpress",
+      "value": "234",
+      "color": "#dd1d1d"
+    }
+  ],
+  "table": [
+    {
+      "id": 1,
+      "name": "Pyshky.net",
+      "status": "green",
+      "type": "TRST",
+      "conditions": "x2,6 months",
+      "volume": 120000,
+      "roi": 4,
+      "free": 20,
+      "hedge": 20
+    },
+    {
+      "id": 2,
+      "name": "NFT-Flowershop",
+      "status": "yellow",
+      "type": "THT",
+      "conditions": "x4,2 years",
+      "volume": 80000,
+      "roi": 23,
+      "free": 12,
+      "hedge": 0
+    },
+    {
+      "id": 3,
+      "name": "Tokenhunt.club",
+      "status": "green",
+      "type": "THC",
+      "conditions": "x2,1 years",
+      "volume": 120000,
+      "roi": 23,
+      "free": 2,
+      "hedge": 20
+    },
+    {
+      "id": 4,
+      "name": "Web3 P2P University",
+      "status": "red",
+      "type": "TRST",
+      "conditions": "x2,1 years",
+      "volume": 200000,
+      "roi": 6,
+      "free": 1,
+      "hedge": 0
+    }
+  ]
+}
