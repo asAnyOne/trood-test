@@ -1,4 +1,4 @@
-download the reppo
+download the repo
 
 unzip the folder.
 
