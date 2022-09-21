@@ -1,8 +1,12 @@
-download the reppo;
-unzip the folder;
-open the folder with vscode;
-type and enter command - npm i    on vscode's cmd;
-type and enter commane - npm start;
+download the reppo
+
+unzip the folder.
+
+open the folder with vscode.
+
+type and enter command - npm i    on vscode's cmd.
+
+type and enter command - npm start.
 
 
 
